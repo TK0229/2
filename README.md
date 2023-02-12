@@ -1,6 +1,6 @@
-**Bellabeat Plays It Smart - Case Study**
+# **Bellabeat Plays It Smart - Case Study**
 
-**About the Company**
+## **About the Company**
 
 Bellabeat, is a company that has understood what the consumers want and has delivered those needs. It has become a thriving high-tech company that manufactures health-focused products that collect data on activity, sleep, reproductive health and stress. 
 
@@ -8,7 +8,7 @@ The company has five successful wellness products: Bellabeat App, Leaf, Time, Sp
 
 
 
-**Phase 1: ASK**
+## **PHASE 1: ASK**
 
 **Identify the Business Task**
 
@@ -84,3 +84,22 @@ First I checked how many times each user used the FitBit tracker.
 
 <img width="672" alt="Screen Shot 2023-02-10 at 10 51 08 PM" src="https://user-images.githubusercontent.com/125219650/218337623-58b9116b-750d-4753-8a05-5e8084c4f428.png">
 
+The results showed that the majority of users were active users, wearing their tracker anywhere from 25-31 times during the recorded period. There were also some light users; who wore their tracker anywhere from 4 - 14 times. 
+
+Next, I checked how active the users are by closely looking at the AVG of total steps, total calories, total activity level per Id. 
+
+<img width="561" alt="Screen Shot 2023-02-10 at 11 13 58 PM" src="https://user-images.githubusercontent.com/125219650/218337847-3af24924-d8d9-4efb-b4dc-995eb8a83371.png">
+
+→ Average steps are 7500
+
+→ Average calories burned are  2280
+
+→ Average activity levels are highest in sedentary minutes. Users spend on average 16 hours in sedentary minutes, 3 hours lightly active, and only half hour in very/fairly active. 
+
+Lastly, I wanted to observe what hours of the day users were most active by checking their total steps by hour. 
+
+<img width="580" alt="Screen Shot 2023-02-11 at 5 23 45 PM" src="https://user-images.githubusercontent.com/125219650/218337913-8190aba5-e942-4f68-a417-4d6d16db73b5.png">
+
+The top hours of steps recorded were early afternoon from 12-2pm and evening from 5-7pm. From this data, one can infer that users majority of the time either were active during their lunch hours or after work hours. 
+
+PHASE 5: Share
