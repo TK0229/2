@@ -118,19 +118,25 @@ The top hours of steps recorded were early afternoon from 12-2pm and evening fro
 
 <img width="719" alt="Screen Shot 2023-02-12 at 3 36 19 PM" src="https://user-images.githubusercontent.com/125219650/218344061-46b40d0d-bc78-4838-9a0a-5f96459243eb.png">
 
-**Key finding #2:** Users are most active during the 12-2pm and 5-8pm hours. Average usage time of the device is also approximately 21 hours. 
+**Key finding #3:** Users are most active during the 12-2pm and 5-8pm hours. Average usage time of the device is also approximately 21 hours. 
 
 ## **PHASE 6: Act**
 
 **There is room for growth in this market and Bellabeat can strategize its marketing by following my recommendations below:**
 
-→ Bellabeat can prolong the battery life of its Leaf wellness tracker since usage of products is the majority of the day. 
+→ Bellabeat can prolong the battery life of its Leaf wellness tracker since usage of products is majority of the day. 
 
 → Bellabeat can drive educational Health campaigns that encourage users to start having short active exercises daily throughout the day and eventually increase activity as consistency is obtained.
 
 → They should pair their campaigns with a stars-award incentive system that we see with most companies nowadays. Users who complete a 30 minutes workout each day for 7 days straight can receive Bellabeat stars and use those towards the Bellabeat membership or obtain their other products: Leaf, Time and Spring.
 
-→ The Leaf should start sending reminders to users who have been in a prolonged period of sedentary minutes. Similarly, it can also sync their heart rates to the app to keep track of heart activity and even signal healthcare services when an individual has taken a hard fall. 
+→ The Leaf product should start sending reminders to users who have been in a prolonged period of sedentary minutes. Similarly, it can also sync their heart rates to the app to keep track of heart activity and even signal healthcare services when an individual has taken a hard fall. 
+
+
+
+
+
+
 
 
 
