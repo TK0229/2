@@ -30,7 +30,7 @@ How could these trends influence Bellabeat marketing strategy?
 
 → Bellabeat’s marketing analytics team. 
 
-**PHASE 2: Prepare:**
+## **PHASE 2: Prepare**
 
 **FitBit Fitness Tracker Data**
 
@@ -52,7 +52,7 @@ The public dataset used for analysis is available from https://www.kaggle.com/da
 
 → Variety of minute-level data was collected for physical activity, heart rate, and sleep monitoring.
 
-**PHASE 3: Process**
+## **PHASE 3: Process**
 
 For this analysis, a combination of Microsoft Excel and BigQuery SQL were used. Firstly, Excel is used to clean the data to avoid any duplicates, errors and understand any noticeable trends. 
 
@@ -76,7 +76,7 @@ After cleaning the data, I decided to merge hourly calories, hourly steps and ho
 
 After cleaning up data, I uploaded the CSV files in BigQuery to analyze the data further.
 
-**PHASE 4: Analyze**
+## **PHASE 4: Analyze**
 
 **BigQuery SQL**
 
@@ -92,7 +92,7 @@ Next, I checked how active the users are by closely looking at the AVG of total 
 
 → Average steps are 7500
 
-→ Average calories burned are  2280
+→ Average calories burned are 2280
 
 → Average activity levels are highest in sedentary minutes. Users spend on average 16 hours in sedentary minutes, 3 hours lightly active, and only half hour in very/fairly active. 
 
@@ -102,4 +102,51 @@ Lastly, I wanted to observe what hours of the day users were most active by chec
 
 The top hours of steps recorded were early afternoon from 12-2pm and evening from 5-7pm. From this data, one can infer that users majority of the time either were active during their lunch hours or after work hours. 
 
-PHASE 5: Share
+## **PHASE 5: Share**
+
+**The charts below summarize all of my key findings:**
+
+<img width="590" alt="Screen Shot 2023-02-12 at 3 25 32 PM" src="https://user-images.githubusercontent.com/125219650/218343620-7d0b89ab-1f0c-49bc-8571-25f17d48bdd9.png">
+
+**Key finding #1:** More users tended to log their activities for majority of the reporting period and were more active than those who less likely used their products.
+
+<img width="670" alt="Screen Shot 2023-02-12 at 3 28 58 PM" src="https://user-images.githubusercontent.com/125219650/218343867-5650ffd4-996e-4965-9bdb-96bd471cc6b6.png">
+
+<img width="712" alt="Screen Shot 2023-02-12 at 3 28 20 PM" src="https://user-images.githubusercontent.com/125219650/218343881-aaab7a2c-3d08-464e-b0b4-def86c46aec4.png">
+
+**Key finding #2:** Sedentary users make up a significant portion of the data, spending on average 16 hours a day in sedentary minutes while only about 30 minutes in very active minutes. 
+
+<img width="719" alt="Screen Shot 2023-02-12 at 3 36 19 PM" src="https://user-images.githubusercontent.com/125219650/218344061-46b40d0d-bc78-4838-9a0a-5f96459243eb.png">
+
+**Key finding #2:** Users are most active during the 12-2pm and 5-8pm hours. Average usage time of the device is also approximately 21 hours. 
+
+## **PHASE 6: Act**
+
+**There is room for growth in this market and Bellabeat can strategize its marketing by following my recommendations below:**
+
+→ Bellabeat can prolong the battery life of its Leaf wellness tracker since usage of products is the majority of the day. 
+
+→ Bellabeat can drive educational Health campaigns that encourage users to start having short active exercises daily throughout the day and eventually increase activity as consistency is obtained.
+
+→ They should pair their campaigns with a stars-award incentive system that we see with most companies nowadays. Users who complete a 30 minutes workout each day for 7 days straight can receive Bellabeat stars and use those towards the Bellabeat membership or obtain their other products: Leaf, Time and Spring.
+
+→ The Leaf should start sending reminders to users who have been in a prolonged period of sedentary minutes. Similarly, it can also sync their heart rates to the app to keep track of heart activity and even signal healthcare services when an individual has taken a hard fall. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Citations:
+
+Möbius. (2020, December 16). Fitbit Fitness Tracker Data. Kaggle. Retrieved February 1, 2023, from https://www.kaggle.com/datasets/arashnic/fitbit 
