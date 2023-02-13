@@ -10,7 +10,7 @@ The company has five successful wellness products: Bellabeat App, Leaf, Time, Sp
 
 ## **PHASE 1: ASK**
 
-**Identify the Business Task**
+**Identify the Business Task:**
 
 How can Bellabeat create a marketing strategy that follows smart device usage trends to maximize growth in the market. 
 
@@ -26,7 +26,7 @@ How could these trends influence Bellabeat marketing strategy?
 
 →  Sando Mur, Mathematician and Bellabeat’s co-founder.
 
-**Secondary stakeholders** 
+**Secondary stakeholders:** 
 
 → Bellabeat’s marketing analytics team. 
 
@@ -80,7 +80,7 @@ After cleaning up data, I uploaded the CSV files in BigQuery to analyze the data
 
 **BigQuery SQL**
 
-First I checked how many times each user used the FitBit tracker. 
+First, I checked how many times each user used the FitBit tracker. 
 
 <img width="672" alt="Screen Shot 2023-02-10 at 10 51 08 PM" src="https://user-images.githubusercontent.com/125219650/218337623-58b9116b-750d-4753-8a05-5e8084c4f428.png">
 
